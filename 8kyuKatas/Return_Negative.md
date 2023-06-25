@@ -57,6 +57,20 @@ Se o num não atender à primeira condição, então é preciso escrever uma ins
 ```` javascript
 return -Math.abs(num);
 ````
+
+exemplo de uso da função makeNegative:
+
+``` javascript
+const result1 = makeNegative(5);
+console.log(result1); // Output: -5
+
+const result2 = makeNegative(-2);
+console.log(result2); // Output: -2
+
+const result3 = makeNegative(0);
+console.log(result3); // Output: 0 (não negativo, retorna o próprio número)
+
+```
 </details>
 
 ---
