@@ -11,7 +11,7 @@ Precisamos de uma função que possa transformar uma string em um número. Que m
 
 Observação: não se preocupe, todas as entradas serão strings e cada string é uma representação perfeitamente válida de um número inteiro.
 
-###Exemplos
+### Exemplos
 ```"1234" --> 1234
 "605"  --> 605
 "1405" --> 1405
