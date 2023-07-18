@@ -24,6 +24,7 @@ function disemvowel(str) {
   return str
 }
 ```
+
 ---
 ### Minha Solução
 
