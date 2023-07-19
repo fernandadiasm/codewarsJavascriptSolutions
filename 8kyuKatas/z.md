@@ -12,16 +12,16 @@
 
 ### Código dado
 
-```JavaScript
+```` JavaScript
 
-```
+````
 
 ---
 ### Minha Solução
 
-```JavaScript
+```` JavaScript
 
-```
+```` 
 
 <details>
 <summary>Explicação</summary>
